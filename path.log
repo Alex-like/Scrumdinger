@@ -1,3 +1,1 @@
 terminal: xcrun simctl get_app_container booted Alex.Tutorial.Scrumdinger data  
-
-/Users/alexshchelochkov/Library/Developer/CoreSimulator/Devices/4A3B13AE-4E1E-497A-A96E-9B77CD09E032/data/Containers/Data/Application/39D5D7DC-2F93-4741-AB67-23B3311ECF8D
